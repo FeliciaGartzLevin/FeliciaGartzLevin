@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Studerar FED22M (Front End Developer Malmö 2022) 
+- 🌱 Studerar FED22M (Front End Developer Malmö 2022-24) 
 
 Hoppas på en givande tid och massor av lärande!😄
 
