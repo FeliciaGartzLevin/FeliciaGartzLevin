@@ -2,6 +2,9 @@
 
 - 🌱 Studerar FED22M (Front End Developer Malmö 2022-24) 
 
+Checkout my resume
+- https://feliciagartzlevin.github.io/feliciagl-CV/
+
 Hoppas på en givande tid och massor av lärande!😄
 
 <!--
