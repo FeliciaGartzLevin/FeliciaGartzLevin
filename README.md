@@ -7,7 +7,7 @@
 
 Min CV-hemsida: https://feliciagartzlevin.github.io/feliciagl-CV/
 
-Kolla gärna på länkarna i mina repon för deployade hemsidor.
+Kolla gärna på länkarna i repona nedan för deployade hemsidor.
 
 
 <!--
