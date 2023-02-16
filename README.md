@@ -1,7 +1,9 @@
 ### Hej där 👋
 
 - 👩‍💻 Studerar FED22M (Front End Developer Malmö 2022-24)
-- 💜 Nyligen återupptäckt kärlek för kod.
+- 💜 Nyligen återupptäckt kärlek för kod som växer ju mer jag lär mig.
+- 🌳 Livslångt intresse för natur
+- 💻 Lär mig att bygga riktigt snygga och funktionella hemsidor och webbappar.
 
 Min CV-hemsida: https://feliciagartzlevin.github.io/feliciagl-CV/
 
