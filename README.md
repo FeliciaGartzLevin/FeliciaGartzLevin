@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hej där 👋
 
-- 🌱 Studerar FED22M (Front End Developer Malmö 2022-24) 
+- 👩‍💻 Studerar FED22M (Front End Developer Malmö 2022-24)
+- 💜 Nyligen återupptäckt kärlek för kod.
 
+Min CV-hemsida: https://feliciagartzlevin.github.io/feliciagl-CV/
 
-Checkout my resume: https://feliciagartzlevin.github.io/feliciagl-CV/
+Kolla gärna på länkarna i mina repon för deployade hemsidor.
 
-Hoppas på en givande tid och massor av lärande!😄
 
 <!--
 **FeliciaGartzLevin/FeliciaGartzLevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
