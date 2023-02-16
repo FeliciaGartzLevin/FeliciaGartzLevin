@@ -1,6 +1,6 @@
 ### Hej där 👋
 
-- 👩‍💻 Studerar Front End Developer Malmö 2022-24 på Medieinstitutet.
+- 👩‍💻 Studerar FED22M (Front End Developer Malmö 2022-24) på Medieinstitutet.
 - 💜 Nyligen återupptäckt kärlek för kod som växer ju mer jag lär mig.
 - 🌳 Livslångt intresse för natur
 - 💻 Lär mig att bygga riktigt snygga och funktionella hemsidor och webbappar.
