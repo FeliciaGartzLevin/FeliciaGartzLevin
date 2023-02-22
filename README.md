@@ -5,6 +5,7 @@
 - 🌳 Livslång kärlek för natur
 - 💻 Lär mig att bygga snygga och funktionella hemsidor och webbappar.
 
+Min Linkedin: www.linkedin.com/in/felicia-gartz-levin
 Min CV-hemsida: https://feliciagartzlevin.github.io/feliciagl-CV/
 
 Kolla gärna på länkarna i repona nedan för deployade hemsidor.
