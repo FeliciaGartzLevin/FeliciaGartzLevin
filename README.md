@@ -8,7 +8,7 @@
 Min Linkedin: www.linkedin.com/in/felicia-gartz-levin <br>
 Min CV-hemsida: https://feliciagartzlevin.github.io/feliciagl-CV/
 
-Flera repon behöver vara privata då de är lösningar på inlämningsuppgifter som hela min klass har fått.
+Flera repon behöver vara privata då de är lösningar på inlämningsuppgifter som hela min klass har fått.<br>
 Vill du se de så skicka iväg en förfrågan till mig.
 
 
