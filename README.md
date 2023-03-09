@@ -1,7 +1,7 @@
 ### Hej där 👋
 
 - 👩‍💻 Studerar FED22M (Front End Developer Malmö 2022-24) på Medieinstitutet.
-- 💜 Nyligen återupptäckt kärlek för kod som växer ju mer jag lär mig.
+- 💜 Nyligen återupptäckt kärlek för kod.
 - 🌳 Livslång kärlek för natur
 - 💻 Lär mig att bygga snygga och funktionella hemsidor och webbappar.
 
