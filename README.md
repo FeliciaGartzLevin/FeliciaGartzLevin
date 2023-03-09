@@ -2,7 +2,7 @@
 
 - 👩‍💻 Studerar FED22M (Front End Developer Malmö 2022-24) på Medieinstitutet.
 - 💜 Nyligen återupptäckt kärlek för kod.
-- 🌳 Livslång kärlek för natur
+- 🌳 Livslångt intresse för natur
 - 💻 Lär mig att bygga snygga och funktionella hemsidor och webbappar.
 
 Min Linkedin: www.linkedin.com/in/felicia-gartz-levin <br>
