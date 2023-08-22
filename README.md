@@ -1,5 +1,5 @@
-### Hej där 👋
-## Jag...
+## Hej där 👋
+### Jag...
 - 👩‍💻 Studerar FED22M (Front End Developer Malmö 2022-24) på Medieinstitutet.
 - 💜 Finner kodande roligt och stimulerande, som att lösa ett 3D-pussel.
 - 🌳 Har ett livslångt intresse för natur
