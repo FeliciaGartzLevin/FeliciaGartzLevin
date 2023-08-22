@@ -9,7 +9,7 @@ Min Linkedin: www.linkedin.com/in/felicia-gartz-levin <br>
 Min CV-hemsida: https://feliciagartzlevin.github.io/feliciagl-CV/
 
 Flera repon behöver vara privata då de är lösningar på inlämningsuppgifter som hela min klass har fått.<br>
-Vill du se mina skolprojekt så skicka iväg en förfrågan till mig <sup>(läraren vill att repona är privata pga att andra i klassen annars kan se lösningen)</sup>.
+Vill du se mina skolprojekt så skicka iväg en förfrågan till mig.
 
 
 <!--
