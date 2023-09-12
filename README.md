@@ -6,10 +6,16 @@
 - 💻 Lär mig att bygga snygga och funktionella hemsidor och webbappar.
 
 Min Linkedin: www.linkedin.com/in/felicia-gartz-levin <br>
-Min CV-hemsida: https://feliciagartzlevin.github.io/feliciagl-CV/
+
+#### Deployade sidor till mina två senaste skolprojekt:
+
+<p>Code-Hunt: https://code-hunt.netlify.app/</p>
+<p>The Star Wars API (SWAPI): https://swapi-fed22m-fgl.netlify.app/</p> 
+
+Använda tekniker är bl a React, React Router, Typescript, Tanstack Query, React Bootstrap, SCSS.
 
 Flera repon behöver vara privata då de är lösningar på inlämningsuppgifter som hela min klass har fått.<br>
-Vill du se mina skolprojekt så skicka iväg en förfrågan till mig.
+Vill du se mina skolprojekt så skicka en förfrågan till mig.
 
 
 <!--
