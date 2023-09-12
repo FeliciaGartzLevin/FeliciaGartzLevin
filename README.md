@@ -9,8 +9,8 @@ Min Linkedin: www.linkedin.com/in/felicia-gartz-levin <br>
 
 #### Deployade sidor till mina två senaste skolprojekt:
 
-<p>Code-Hunt: https://code-hunt.netlify.app/</p>
-<p>The Star Wars API (SWAPI): https://swapi-fed22m-fgl.netlify.app/</p> 
+Code-Hunt: https://code-hunt.netlify.app/
+The Star Wars API (SWAPI): https://swapi-fed22m-fgl.netlify.app/
 
 Använda tekniker är bl a React, React Router, Typescript, Tanstack Query, React Bootstrap, SCSS.
 
