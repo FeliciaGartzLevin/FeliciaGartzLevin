@@ -7,7 +7,7 @@
 
 Min Linkedin: www.linkedin.com/in/felicia-gartz-levin <br>
 
-### Deployade sidor till mina tre senaste skolprojekt:
+#### Deployade sidor till mina tre senaste skolprojekt:
 
 Hanger Management: https://hanger-mgmt.netlify.app/ (grupparbete)<br>
 Code Hunt: https://code-hunt.netlify.app/<br>
