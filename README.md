@@ -1,14 +1,15 @@
 ## Hej där 👋
 ### Jag...
 - 👩‍💻 Studerar FED22M (Front End Developer Malmö 2022-24) YH-program på Medieinstitutet.
-- 💜 Finner kodande roligt och stimulerande, som att lösa ett 3D-pussel i 2D.
-- 🌳 Har ett livslångt intresse för natur
+- 💜 Finner kodande roligt och stimulerande, som att lösa ett flerdimensionellt pussel.
+- 🌳 Har ett livslångt intresse för natur.
 - 💻 Lär mig att bygga snygga och funktionella hemsidor och webbappar.
 
 Min Linkedin: www.linkedin.com/in/felicia-gartz-levin <br>
 
 #### Deployade sidor till mina tre senaste skolprojekt:
 
+Examensarbete som gjordes under 4 arbetsveckors utvecklingstid <br>
 Hanger Management: https://hanger-mgmt.netlify.app/ (grupparbete)<br>
 Code Hunt: https://code-hunt.netlify.app/<br>
 The Star Wars API (SWAPI): https://swapi-fed22m-fgl.netlify.app/<br>
