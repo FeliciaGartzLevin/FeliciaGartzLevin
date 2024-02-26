@@ -16,7 +16,7 @@ The Star Wars API (SWAPI): https://swapi-fed22m-fgl.netlify.app/<br>
 Använda tekniker i dessa är bl a React, React Router, Typescript, Tanstack Query, Firebase, Google Maps, Places, Geocoding API, React Bootstrap, SCSS.
 För närmare beskrivning av dessa, se mina projekt på Linkedin: https://www.linkedin.com/in/felicia-gartz-levin/details/projects/
 
-De flesta repon behöver vara privata då de är lösningar på inlämningsuppgifter som hela min klass har fått.<br>
+De flesta repon behöver vara privata då de är lösningar på inlämningsuppgifter som hela min klass har fått och kommande klasser kan komma att få.<br>
 Vill du se koden till mina skolprojekt (bl a de ovan) så skicka en förfrågan till mig.
 
 
