@@ -9,7 +9,7 @@ Min Linkedin: www.linkedin.com/in/felicia-gartz-levin <br>
 
 #### Deployade sidor till mina senaste skolprojekt:
 
-Examensarbete som gjordes under 4 arbetsveckors utvecklingstid <br>
+Examensarbete som gjordes under 4 arbetsveckors utvecklingstid: https://mealplan-helper-app.netlify.app <br>
 Hanger Management: https://hanger-mgmt.netlify.app/ (grupparbete)<br>
 Code Hunt: https://code-hunt.netlify.app/<br>
 The Star Wars API (SWAPI): https://swapi-fed22m-fgl.netlify.app/<br>
