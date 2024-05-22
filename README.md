@@ -1,6 +1,6 @@
 ## Hej där 👋
 ### Jag...
-- 👩‍💻 Studerar FED22M (Front End Developer Malmö 2022-24) YH-program på Medieinstitutet.
+- 🎓 Examen som Front End Developer i maj 2024.
 - 💜 Finner kodande roligt och stimulerande, som att lösa ett flerdimensionellt pussel.
 - 🌳 Har ett livslångt intresse för natur.
 - 💻 Lär mig att bygga snygga och funktionella hemsidor och webbappar.
