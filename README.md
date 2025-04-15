@@ -1,6 +1,7 @@
 ## Hej där 👋
 ### Jag...
-- 🎓 Examen som Front End Developer i maj 2024.
+- 🎓 Tog examen som Front End Developer i maj 2024.
+- 👩🏽‍💻 Jobbar som konsult på European Spallation Source, där jag i huvudsak skriver front end men även SQL i HxGN EAM systemet.
 - 💜 Finner kodande roligt och stimulerande, som att lösa ett flerdimensionellt pussel.
 - 🌳 Har ett livslångt intresse för natur.
 - 💻 Lär mig att bygga snygga och funktionella hemsidor och webbappar.
