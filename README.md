@@ -1,23 +1,26 @@
-## Hej där 👋
-### Jag...
-- 🎓 Tog examen som Front End Developer i maj 2024.
-- 👩🏽‍💻 Jobbar som konsult på European Spallation Source, där jag i huvudsak skriver front end men även SQL i HxGN EAM systemet.
-- 💜 Finner kodande roligt och stimulerande, som att lösa ett flerdimensionellt pussel.
-- 🌳 Har ett livslångt intresse för natur.
-- 💻 Lär mig att bygga snygga och funktionella hemsidor och webbappar.
+## Hi there 👋
+### I...
+- 🎓 Graduated as a Front End Developer in May 2024.
+- 👩🏽‍💻 Work as a consultant at the European Spallation Source, mainly writing front end code but also SQL in the HxGN EAM system.
+- 💜 Find coding fun and stimulating, like solving a multi-dimensional puzzle.
+- 🌳 Have a lifelong interest in nature.
+- 💻 Always trying to improve to build stylish, responsive and functional websites and web apps.
 
-Min Linkedin: www.linkedin.com/in/felicia-gartz-levin <br>
+My LinkedIn: www.linkedin.com/in/felicia-gartz-levin <br>
 
-#### Deployade sidor till mina senaste skolprojekt:
+#### Hobby Projects
+Webpage for a local car workshop, under construction: https://rpm-bilservice.netlify.app/
 
-Examensarbete som gjordes under 4 arbetsveckors utvecklingstid: https://mealplan-helper-app.netlify.app <br>
-Hanger Management: https://hanger-mgmt.netlify.app/ (grupparbete)<br>
+#### Deployed pages from my school projects:
+
+Thesis project developed over 4 work weeks: https://mealplan-helper-app.netlify.app <br>
+Hanger Management: https://hanger-mgmt.netlify.app/ (group project)<br>
 Code Hunt: https://code-hunt.netlify.app/<br>
 The Star Wars API (SWAPI): https://swapi-fed22m-fgl.netlify.app/<br>
-Använda tekniker i dessa är bl a React, React Router, Typescript, Tanstack Query, Firebase, Google Maps, Places, Geocoding API, React Bootstrap, SCSS.
-För närmare beskrivning av dessa, se mina projekt på Linkedin: https://www.linkedin.com/in/felicia-gartz-levin/details/projects/, eller se repona nedan.
+Technologies used include React, React Router, Typescript, Tanstack Query, Firebase, Google Maps, Places, Geocoding API, React Bootstrap, SCSS.  
+For a closer description of these, check out my projects on LinkedIn: https://www.linkedin.com/in/felicia-gartz-levin/details/projects/, or see the repos below.
 
-#### Se repona för min kod [här](https://github.com/FeliciaGartzLevin?tab=repositories).
+#### See the repos for my code [here](https://github.com/FeliciaGartzLevin?tab=repositories).
 
 <!--
 **FeliciaGartzLevin/FeliciaGartzLevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
